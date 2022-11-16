@@ -290,10 +290,9 @@ nav ul li a:hover::after{
     margin-right: 5px;
    
  }
- .gap{
-    margin-bottom: 30px;
- }
-
+ .sem{
+	margin: 40px 0px;
+}
 
 /*---------------------------contact-----------------------------------*/
 
