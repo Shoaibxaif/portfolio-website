@@ -440,6 +440,34 @@ nav .fa-solid{
     display: block;
 }
 
+/* ------------------media query for iphone6/7/8----------------------*/
+
+@media only screen 
+    and (min-device-width : 375px) 
+    and (max-device-width : 667px) 
+    and (width : 375px) 
+    and (height : 559px)
+    and (orientation : portrait) 
+    and (color : 8)
+    and (device-aspect-ratio : 375/667)
+    and (aspect-ratio : 375/559)
+    and (device-pixel-ratio : 2)
+    and (-webkit-min-device-pixel-ratio : 2)
+{ 
+    .header-text {
+        margin-top: 124%;
+        font-size: 16px;
+      }
+
+      .services-list div:hover {
+        background: #ff004f;
+        transform: translateY(-10px);
+      }
+
+
+
+}
+
 
 
 
