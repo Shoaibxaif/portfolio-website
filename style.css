@@ -276,8 +276,27 @@ nav ul li a:hover::after{
     background: #ff004f;
 
 }
+/* ...........................................study material.......................... */
 
-/* ---------------------------contact----------------------------------- */
+
+.services-list .sem-1 a{
+   
+    font-size: 30px;
+   
+ }
+.services-list div span i{
+   
+    font-size: 40px;
+    margin-right: 5px;
+   
+ }
+ .gap{
+    margin-bottom: 40px;
+ }
+
+
+/*---------------------------contact-----------------------------------*/
+
 .contact-left{
 
     flex-basis: 35%;
