@@ -529,7 +529,11 @@ nav .fa-solid{
     .copyright{
         font-size: 14px;
     }
-
+    .contact-left p {
+        margin-top: 30px;
+        color: white;
+        text-decoration: none;
+    }
 
 
 
