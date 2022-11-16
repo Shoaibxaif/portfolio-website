@@ -276,23 +276,6 @@ nav ul li a:hover::after{
     background: #ff004f;
 
 }
-/* ...........................................study material.......................... */
-
-
-.services-list .sem-1 a{
-   
-    font-size: 30px;
-   
- }
-.services-list div span i{
-   
-    font-size: 40px;
-    margin-right: 5px;
-   
- }
- .sem{
-	margin: 40px 0px;
-}
 
 /*---------------------------contact-----------------------------------*/
 
